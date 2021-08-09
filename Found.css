@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: cornflowerblue;
+}
+h2{
+    color: blue;
+}
+
+table, tr, th, td{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
